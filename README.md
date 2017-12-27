@@ -1,7 +1,7 @@
 # Using
-- `git clone https://aleks-webby@bitbucket.org/aleks-webby/weather-app.git`
-- `cd weather-app`
+- `git clone https://aleks-webby@bitbucket.org/aleks-webby/star-wars-react-ssr.git
+- `cd star-wars-react-ssr`
 - `npm i`
 - `npm start`
-- Open in your browser [http://localhost:4200/](http://localhost:4200/)
+- Open in your browser [http://localhost:3000/](http://localhost:3000/)
 - **Enjoy :)**
